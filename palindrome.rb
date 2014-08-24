@@ -1,1 +1,0 @@
-puts "racecar"[-1..0]
