@@ -1,1 +1,0 @@
-puts "", ARGV[0].split(".")[0].gsub("_"," ")
